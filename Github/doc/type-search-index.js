@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"CribaJavaDoc"},{"p":"<Unnamed>","l":"CribaOriginal"},{"p":"<Unnamed>","l":"CribaRefactorizado"}]
